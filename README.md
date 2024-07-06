@@ -60,7 +60,7 @@ takagen99版本 [GitHub项目地址](https://github.com/takagen99/Box) 支持直
 
 （11）俊于：http://home.jundie.top:81/top98.json
 
-4. 随机轮换壁纸：
+## 随机轮换壁纸：
 
 （1）https://jianbian.chuqiuyu.workers.dev 自制极简渐变壁纸
 
