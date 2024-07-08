@@ -64,27 +64,21 @@ takagen99版本 [GitHub项目地址](https://github.com/takagen99/Box) 支持直
 
 （1）https://jianbian.chuqiuyu.workers.dev 自制极简渐变壁纸
 
-（2）http://www.kf666888.cn/api/tvbox/img
+（2）http://www.kf666888.cn/api/tvbox/img 纯色壁纸
 
-（3）https://picsum.photos/1280/720/?blur=10
+（3）https://www.dmoe.cc/random.php 随机二次元壁纸
 
-（4）http://刚刚.live/图 
+（4）https://api.btstu.cn/sjbz/zsy.php
 
-（5）http://饭.eu.org/深色壁纸/api.php,
+（5）https://api.btstu.cn/sjbz/?lx=dongman
 
-（6）https://www.dmoe.cc/random.php
+（6）http://api.btstu.cn/sjbz/?lx=meizi
 
-（7）https://api.btstu.cn/sjbz/zsy.php
+（7）http://api.btstu.cn/sjbz/?lx=suiji
 
-（8）https://api.btstu.cn/sjbz/?lx=dongman
+（8）https://pictures.catvod.eu.org/
 
-（9）http://api.btstu.cn/sjbz/?lx=meizi
-
-（10）http://api.btstu.cn/sjbz/?lx=suiji
-
-（11）https://pictures.catvod.eu.org/
-
-（12）https://bing.img.run/rand.php
+（9）https://bing.img.run/rand.php
 
 自用仓库，如果喜欢，请Fork自用，谢谢！
 
