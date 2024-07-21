@@ -68,17 +68,13 @@ takagen99版本 [GitHub项目地址](https://github.com/takagen99/Box) 支持直
 
 （3）https://www.dmoe.cc/random.php 随机二次元壁纸
 
-（4）https://api.btstu.cn/sjbz/zsy.php
+（5）https://api.btstu.cn/sjbz/?lx=dongman 随机二次元壁纸
 
-（5）https://api.btstu.cn/sjbz/?lx=dongman
+（6）http://api.btstu.cn/sjbz/?lx=meizi 随机美女壁纸
 
-（6）http://api.btstu.cn/sjbz/?lx=meizi
+（7）http://api.btstu.cn/sjbz/?lx=suiji 随机壁纸
 
-（7）http://api.btstu.cn/sjbz/?lx=suiji
-
-（8）https://pictures.catvod.eu.org/
-
-（9）https://bing.img.run/rand.php
+（9）https://bing.img.run/rand.php 必应(Bing)壁纸
 
 自用仓库，如果喜欢，请Fork自用，谢谢！
 
